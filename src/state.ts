@@ -11,6 +11,134 @@ import Q10_2 from "./img/Q10_2.png";
 import Q10_3 from "./img/Q10_3.png";
 import Q11_1 from "./img/Q11_1.png";
 import Q11_2 from "./img/Q11_2.png";
+import Q12_1 from "./img/Q12_1.png";
+import Q12_2 from "./img/Q12_2.png";
+import Q13_1 from "./img/Q13_1.png";
+import Q13_2 from "./img/Q13_2.png";
+import Q14_1 from "./img/Q14_1.png";
+import Q14_2 from "./img/Q14_2.png";
+import Q14_3 from "./img/Q14_3.png";
+import Q15_1 from "./img/Q15_1.png";
+import Q15_2 from "./img/Q15_2.png";
+import Q16_1 from "./img/Q16_1.png";
+import Q16_2 from "./img/Q16_2.png";
+import Q16_3 from "./img/Q16_3.png";
+import Q17_1 from "./img/Q17_1.png";
+import Q17_2 from "./img/Q17_2.png";
+import Q17_3 from "./img/Q17_3.png";
+import Q18_1 from "./img/Q18_1.png";
+import Q19_1 from "./img/Q19_1.png";
+import Q19_2 from "./img/Q19_2.png";
+import Q20_1 from "./img/Q20_1.png";
+import Q20_2 from "./img/Q20_2.png";
+import Q20_3 from "./img/Q20_3.png";
+import Q20_4 from "./img/Q20_4.png";
+import Q21_1 from "./img/Q21_1.png";
+import Q21_2 from "./img/Q21_2.png";
+import Q21_3 from "./img/Q21_3.png";
+import Q22_1 from "./img/Q22_1.png";
+import Q23_1 from "./img/Q23_1.png";
+import Q23_2 from "./img/Q23_2.png";
+import Q24_1 from "./img/Q24_1.png";
+import Q24_2 from "./img/Q24_2.png";
+import Q25_1 from "./img/Q25_1.png";
+import Q26_1 from "./img/Q26_1.png";
+import Q27_1 from "./img/Q27_1.png";
+import Q27_2 from "./img/Q27_2.png";
+import Q28_1 from "./img/Q28_1.png";
+import Q28_2 from "./img/Q28_2.png";
+import Q29_1 from "./img/Q29_1.png";
+import Q29_2 from "./img/Q29_2.png";
+import Q30_1 from "./img/Q30_1.png";
+import Q30_2 from "./img/Q30_2.png";
+import Q30_3 from "./img/Q30_3.png";
+import Q31_1 from "./img/Q31_1.png";
+import Q32_1 from "./img/Q32_1.png";
+import Q32_2 from "./img/Q32_2.png";
+import Q32_3 from "./img/Q32_3.png";
+import Q32_4 from "./img/Q32_4.png";
+import Q33_1 from "./img/Q33_1.png";
+import Q33_2 from "./img/Q33_2.png";
+import Q34_1 from "./img/Q34_1.png";
+import Q34_2 from "./img/Q34_2.png";
+import Q35_1 from "./img/Q35_1.png";
+import Q35_2 from "./img/Q35_2.png";
+import Q35_3 from "./img/Q35_3.png";
+import Q35_4 from "./img/Q35_4.png";
+import Q36_1 from "./img/Q36_1.png";
+import Q36_2 from "./img/Q36_2.png";
+import Q36_3 from "./img/Q36_3.png";
+import Q37_1 from "./img/Q37_1.png";
+import Q38_1 from "./img/Q38_1.png";
+import Q38_2 from "./img/Q38_2.png";
+import Q39_1 from "./img/Q39_1.png";
+import Q39_2 from "./img/Q39_2.png";
+import Q40_1 from "./img/Q40_1.png";
+import Q40_2 from "./img/Q40_2.png";
+import Q40_3 from "./img/Q40_3.png";
+import Q40_4 from "./img/Q40_4.png";
+import Q41_1 from "./img/Q41_1.png";
+import Q41_2 from "./img/Q41_2.png";
+import Q41_3 from "./img/Q41_3.png";
+import Q41_4 from "./img/Q41_4.png";
+import Q42_1 from "./img/Q42_1.png";
+import Q42_2 from "./img/Q42_2.png";
+import Q42_3 from "./img/Q42_3.png";
+import Q43_1 from "./img/Q43_1.png";
+import Q43_2 from "./img/Q43_2.png";
+import Q43_3 from "./img/Q43_3.png";
+import Q44_1 from "./img/Q44_1.png";
+import Q44_2 from "./img/Q44_2.png";
+import Q45_1 from "./img/Q45_1.png";
+import Q45_2 from "./img/Q45_2.png";
+import Q45_3 from "./img/Q45_3.png";
+import Q46_1 from "./img/Q46_1.png";
+import Q46_2 from "./img/Q46_2.png";
+import Q47_1 from "./img/Q47_1.png";
+import Q47_2 from "./img/Q47_2.png";
+import Q47_3 from "./img/Q47_3.png";
+import Q48_1 from "./img/Q48_1.png";
+import Q48_2 from "./img/Q48_2.png";
+import Q48_3 from "./img/Q48_3.png";
+import Q48_4 from "./img/Q48_4.png";
+import Q48_5 from "./img/Q48_5.png";
+import Q48_6 from "./img/Q48_6.png";
+import Q49_1 from "./img/Q49_1.png";
+import Q49_2 from "./img/Q49_2.png";
+import Q49_3 from "./img/Q49_3.png";
+import Q49_4 from "./img/Q49_4.png";
+import Q49_5 from "./img/Q49_5.png";
+import Q50_1 from "./img/Q50_1.png";
+import Q50_2 from "./img/Q50_2.png";
+import Q50_3 from "./img/Q50_3.png";
+import Q51_1 from "./img/Q51_1.png";
+import Q52_1 from "./img/Q52_1.png";
+import Q52_2 from "./img/Q52_2.png";
+import Q52_3 from "./img/Q52_3.png";
+import Q52_4 from "./img/Q52_4.png";
+import Q53_1 from "./img/Q53_1.png";
+import Q53_2 from "./img/Q53_2.png";
+import Q53_3 from "./img/Q53_3.png";
+import Q53_4 from "./img/Q53_4.png";
+import Q53_5 from "./img/Q53_5.png";
+import Q53_6 from "./img/Q53_6.png";
+import Q53_7 from "./img/Q53_7.png";
+import Q53_8 from "./img/Q53_8.png";
+import Q54_1 from "./img/Q54_1.png";
+import Q54_2 from "./img/Q54_2.png";
+import Q54_3 from "./img/Q54_3.png";
+import Q54_4 from "./img/Q54_4.png";
+import Q55_1 from "./img/Q55_1.png";
+import Q55_2 from "./img/Q55_2.png";
+import Q55_3 from "./img/Q55_3.png";
+import Q55_4 from "./img/Q55_4.png";
+import Q55_5 from "./img/Q55_5.png";
+import Q55_6 from "./img/Q55_6.png";
+import Q55_7 from "./img/Q55_7.png";
+import Q55_8 from "./img/Q55_8.png";
+import Q55_9 from "./img/Q55_9.png";
+import Q55_10 from "./img/Q55_10.png";
+import Q55_11 from "./img/Q55_11.png";
 
 export interface IBlock {
   title: string;
@@ -115,6 +243,182 @@ const State: IBlock[] = [
   {
     title: "Амплитудный дискриминатор с прецизионным двухполупериодным выпрямителем.",
     img: [Q11_1, Q11_2]
+  },
+  {
+    title: "Амплитудный дискриминатор с синхронным детектором.",
+    img: [Q12_1, Q12_2]
+  },
+  {
+    title: "Фазовый детектор.",
+    img: [Q13_1, Q13_2]
+  },
+  {
+    title: "Параметрический фазовый дискриминатор на основе аналогового перемножителя сигналов.",
+    img: [Q14_1, Q14_2, Q14_3]
+  },
+  {
+    title: "Фазовый дискриминатор на основе ключевого умножителя сигналов.",
+    img: [Q15_1, Q15_2]
+  },
+  {
+    title: "Фазовый дискриминатор на логическом элементе «исключающее ИЛИ».",
+    img: [Q16_1, Q16_2, Q16_3]
+  },
+  {
+    title: "Векторомерный фазовый дискриминатор.",
+    img: [Q17_1, Q17_2, Q17_3]
+  },
+  {
+    title: "Частотные дискриминаторы.",
+    img: [Q18_1]
+  },
+  {
+    title: "Частотный дискриминатор на основе одиночного расстроенного контура.",
+    img: [Q19_1, Q19_2]
+  },
+  {
+    title: "Частотный дискриминатор на расстроенных контурах.",
+    img: [Q20_1, Q20_2, Q20_3, Q20_4]
+  },
+  {
+    title: "Частотный дискриминатор на основе фазовращателя и фазового дискриминатора",
+    img: [Q21_1, Q21_2, Q21_3]
+  },
+  {
+    title: "Задающие устройства САУ.",
+    img: [Q22_1]
+  },
+  {
+    title: "Электромеханические задатчики сигналов.",
+    img: [Q23_1, Q23_2]
+  },
+  {
+    title: "Электронные задатчики сигналов.",
+    img: [Q24_1, Q24_2]
+  },
+  {
+    title: "Аналого-цифровые преобразователи. Основные характеристики.",
+    img: [Q25_1]
+  },
+  {
+    title: "Статистическая погрешность АЦП.",
+    img: [Q26_1]
+  },
+  {
+    title: "Аддитивная погрешность АЦП.",
+    img: [Q27_1, Q27_2]
+  },
+  {
+    title: "Мультипликативная погрешность АЦП.",
+    img: [Q28_1, Q28_2]
+  },
+  {
+    title: "Дифференциальная нелинейность АЦП.",
+    img: [Q29_1, Q29_2]
+  },
+  {
+    title: "Интегральная нелинейность АЦП.",
+    img: [Q30_1, Q30_2, Q30_3]
+  },
+  {
+    title: "Погрешность квантования АЦП.",
+    img: [Q31_1]
+  },
+  {
+    title: "Динамические характеристики АЦП.",
+    img: [Q32_1, Q32_2, Q32_3, Q32_4]
+  },
+  {
+    title: "Апертурная погрешность АЦП.",
+    img: [Q33_1, Q33_2]
+  },
+  {
+    title: "Классификация АЦП.",
+    img: [Q34_1, Q34_2]
+  },
+  {
+    title: "Параллельные АЦП.",
+    img: [Q35_1, Q35_2, Q35_3, Q35_4]
+  },
+  {
+    title: "АЦП последовательного счета.",
+    img: [Q36_1, Q36_2, Q36_3]
+  },
+  {
+    title: "АЦП отслеживающего типа.",
+    img: [Q37_1]
+  },
+  {
+    title: "АЦП последовательного приближения.",
+    img: [Q38_1, Q38_2]
+  },
+  {
+    title: "АПЦ двойного (двухтактного) интегрирования.",
+    img: [Q39_1, Q39_2]
+  },
+  {
+    title: "Сигма-Дельта АЦП.",
+    img: [Q40_1, Q40_2, Q40_3, Q40_4]
+  },
+  {
+    title: "Цифро-аналоговые преобразователи. Основные характеристики.",
+    img: [Q41_1, Q41_2, Q41_3, Q41_4]
+  },
+  {
+    title: "ЦАП с двоично-взвешенными резисторами и опорным источником напряжения.",
+    img: [Q42_1, Q42_2, Q42_3]
+  },
+  {
+    title: "ЦАП с резистивной матрицей R-2R и эталонным источником напряжения.",
+    img: [Q43_1, Q43_2, Q43_3]
+  },
+  {
+    title: "ЦАП с резистивной матрицей R-2R и эталонным источником тока.",
+    img: [Q44_1, Q44_2]
+  },
+  {
+    title: "Параллельные ЦАП на переключаемых конденсаторах.",
+    img: [Q45_1, Q45_2, Q45_3]
+  },
+  {
+    title: "Последовательные ЦАП на переключаемых конденсаторах.",
+    img: [Q46_1, Q46_2]
+  },
+  {
+    title: "ЦАП на основе широтно-импульсного модулятора.",
+    img: [Q47_1, Q47_2, Q47_3]
+  },
+  {
+    title: "Усилитель с программируемым коэффициентом усиления.",
+    img: [Q48_1, Q48_2, Q48_3, Q48_4, Q48_5, Q48_6]
+  },
+  {
+    title: "Перестраиваемый аналоговый интегратор с цифровым управлением.",
+    img: [Q49_1, Q49_2, Q49_3, Q49_4, Q49_5]
+  },
+  {
+    title: "Перестраиваемый аналоговый дифференциатор с цифровым управлением.",
+    img: [Q50_1, Q50_2, Q50_3]
+  },
+  {
+    title: "Функциональные преобразователи. Основные характеристики.",
+    img: [Q51_1]
+  },
+  {
+    title: "Преобразователь «ток-напряжение».",
+    img: [Q52_1, Q52_2, Q52_3, Q52_4]
+  },
+  {
+    title: "Преобразователь «напряжение-ток» (с заземленной нагрузкой и без).",
+    img: [Q53_1, Q53_2, Q53_3, Q53_4, Q53_5, Q53_6, Q53_7, Q53_8]
+  },
+  {
+    title: "Управляемые источники втекающих и вытекающих токов.",
+    img: [Q54_1, Q54_2, Q54_3, Q54_4]
+  },
+  {
+    title: "Функциональный преобразователь «напряжение-частота».",
+    img: [Q55_1, Q55_2, Q55_3, Q55_4, Q55_5, Q55_6, Q55_7, Q55_8, Q55_9, Q55_10, Q55_11]
   }
 ];
 
