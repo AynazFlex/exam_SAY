@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/exam_SAY/static/css/main.2cfe3cf4.css",
+    "main.js": "/exam_SAY/static/js/main.059dd0b4.js",
+    "static/media/Q11_1.png": "/exam_SAY/static/media/Q11_1.d667263aa3bf1396a8bc.png",
+    "static/media/Q1_1.png": "/exam_SAY/static/media/Q1_1.eaa5ad9d135e84650cb6.png",
+    "static/media/Q11_2.png": "/exam_SAY/static/media/Q11_2.6063a56781f92906a285.png",
+    "static/media/Q9_2.png": "/exam_SAY/static/media/Q9_2.407b3486a973edca91a7.png",
+    "static/media/Q4_1.png": "/exam_SAY/static/media/Q4_1.d3ecb4a8a98fe9243149.png",
+    "static/media/Q10_2.png": "/exam_SAY/static/media/Q10_2.1827f62a1c15bcff3444.png",
+    "static/media/Q9_1.png": "/exam_SAY/static/media/Q9_1.ebbbbb8c5e44f0ede8c5.png",
+    "static/media/Q8_1.png": "/exam_SAY/static/media/Q8_1.02864ee4fb037a89ff6c.png",
+    "static/media/Q8_3.png": "/exam_SAY/static/media/Q8_3.a9c519acbfa8f57fd4b0.png",
+    "static/media/Q9_3.png": "/exam_SAY/static/media/Q9_3.ab938d92d305dcbf6e8d.png",
+    "static/media/Q10_3.png": "/exam_SAY/static/media/Q10_3.ac6e10a8b8cd2dc8040c.png",
+    "static/media/Q8_2.png": "/exam_SAY/static/media/Q8_2.d8633b6f423ff394bb1d.png",
+    "index.html": "/exam_SAY/index.html",
+    "main.2cfe3cf4.css.map": "/exam_SAY/static/css/main.2cfe3cf4.css.map",
+    "main.059dd0b4.js.map": "/exam_SAY/static/js/main.059dd0b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cfe3cf4.css",
+    "static/js/main.059dd0b4.js"
+  ]
+}
