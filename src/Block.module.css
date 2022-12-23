@@ -1,0 +1,22 @@
+.title {
+    padding: 10px;
+    font-size: 25px;
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+.block {
+    margin-bottom: 10px
+}
+
+.p {
+    font-size: 22px;
+    text-indent: 10px
+}
+
+.img {
+    display: block;
+    max-width: 100%;
+    margin: 22px auto;
+}

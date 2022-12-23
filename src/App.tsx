@@ -1,25 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
+import { useState } from 'react';
 import './App.css';
+import Block from './Block';
+import State from './state';
 
 function App() {
+  const [text, setText] = useState('')
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <input className="input" onChange={(e) => setText(e.target.value)} value={text}/>
+      <div className="container">
+        {State.reduce<JSX.Element[]>((arr, item, i) => {
+          item.title.toLowerCase().includes(text.toLowerCase()) && arr.push(<Block key={i} id={i+1} {...item}/>)
+          return arr
+        }, [])}
+      </div>
+    </>
   );
 }
 
